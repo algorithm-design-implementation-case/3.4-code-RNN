@@ -1,0 +1,21 @@
+example1:
+document:
+Sandra travelled to the kitchen.
+Sandra travelled to the hallway.
+
+question:
+Where is Sandra?
+
+answer:
+hallway
+--------------------
+example2:
+documents:
+Mary went to the bathroom.
+Sandra moved to the garden.
+
+question:
+Where is Sandra?
+
+answer:
+garden
